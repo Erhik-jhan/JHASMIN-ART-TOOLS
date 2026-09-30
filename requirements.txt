@@ -1,0 +1,40 @@
+# ==========================================================
+# JHASMIN ART TOOLS - DEPENDENCIAS
+# ==========================================================
+
+
+# INTERFAZ GRÁFICA
+PySide6
+
+
+# PROCESAMIENTO DE IMAGEN
+Pillow
+opencv-python
+numpy
+
+
+# IA Y MODELOS
+torch
+torchvision
+transformers
+
+
+# SEGMENTACIÓN
+segment-anything
+
+
+# DATOS Y CONFIGURACIÓN
+pyyaml
+
+
+# EXPORTACIÓN Y FORMATOS
+psd-tools
+
+
+# UTILIDADES
+tqdm
+requests
+
+
+# DESARROLLO Y PRUEBAS
+pytest
